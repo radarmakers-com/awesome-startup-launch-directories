@@ -269,6 +269,30 @@
       "dr": 50,
       "status": "skipped",
       "notes": "Ad-heavy pages; poor placement quality. Still accepting submissions; paid homepage features $0.99 to $5.99."
+    },
+    {
+      "name": "PWA Directory",
+      "url": "https://pwa.directory/",
+      "priceUsd": 19.99,
+      "dr": null,
+      "status": "active",
+      "notes": "Free listing, about 7 days review. Paid Fast-Track publishes within 48 h."
+    },
+    {
+      "name": "WebApps Directory",
+      "url": "https://webapps.directory/",
+      "priceUsd": 19.99,
+      "dr": null,
+      "status": "active",
+      "notes": "Free listing, about 7 days review. Paid Fast-Track publishes within 48 h."
+    },
+    {
+      "name": "Boilerplates Directory",
+      "url": "https://boilerplates.directory/",
+      "priceUsd": 19.99,
+      "dr": null,
+      "status": "active",
+      "notes": "Free listing, about 7 days review. Paid Fast-Track publishes within 48 h. Starter kits and SaaS boilerplates only."
     }
   ]
 }
